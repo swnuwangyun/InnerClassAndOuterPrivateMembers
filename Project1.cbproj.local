@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2014/11/19 22:30:31.733,=C:\Users\Fannie\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/11/19 22:30:31.747,=C:\Users\Fannie\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/11/19 22:37:16.036,C:\Users\Fannie\Documents\Embarcadero\Studio\Projects\InnerClassAndOuterPrivateMembers\Unit1.h=C:\Users\Fannie\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2014/11/19 22:37:16.036,C:\Users\Fannie\Documents\Embarcadero\Studio\Projects\InnerClassAndOuterPrivateMembers\Unit1.dfm=C:\Users\Fannie\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2014/11/19 22:37:16.036,C:\Users\Fannie\Documents\Embarcadero\Studio\Projects\InnerClassAndOuterPrivateMembers\Unit1.cpp=C:\Users\Fannie\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/11/19 22:37:17.112,C:\Users\Fannie\Documents\Embarcadero\Studio\Projects\InnerClassAndOuterPrivateMembers\Project1PCH1.h=C:\Users\Fannie\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/11/19 22:37:18.451,C:\Users\Fannie\Documents\Embarcadero\Studio\Projects\InnerClassAndOuterPrivateMembers\Project1.cbproj=C:\Users\Fannie\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
